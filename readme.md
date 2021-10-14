@@ -1,7 +1,7 @@
-O Jogo que escolhi tem como objetivo Resgatar os tempos de infância !!!
-Para o desenvolvimento do jogo foi algumas  bibliotecas.
+O Jogo  escolhido  foi o jokenpo,um jogo muito comum na época de escola!!!
+Para o desenvolvimento do jogo foram  usadas algumas blibiotecas .
 
-A blibioteca  random import randint  foi usado  para criar  aleatoridade e autonomia ao jogador computador.
+A blibioteca Randit foi usada para  dar aleatoriadade e  autonomia para o jogador  computador !!!
 
  A blibioteca from time import sleep foi usado para criar animação do tempo de processamento do resultado da jogada.
  
